@@ -3,7 +3,7 @@
 
 WELCOME
 
-[TREATMENT] 
+[TREATMENT] https://github.com/njwood/njwood.github.io/blob/master/game.html
 
 
 You can use the [editor on GitHub](https://github.com/njwood/njwood.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
